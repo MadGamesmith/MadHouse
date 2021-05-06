@@ -1,0 +1,4 @@
+welcome_text: Welcome to the Mad House Alexa Skill. Say your name to start.
+hello: Hello {{firstname}}. Great job so far.
+ask_name: What is your name?
+ask_name_reprompt: Can you tell me your name?
